@@ -2,7 +2,7 @@
 {
   "ads": [
     {
-      "isAdsEnabled": true,
+      "isAdsEnabled": false,
       "imageUrl": "https://raw.githubusercontent.com/labobouita/tanglkkherra/refs/heads/main/imageex.png",
       "link1": ""
     },
