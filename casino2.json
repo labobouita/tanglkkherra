@@ -2,9 +2,9 @@
 {
   "ads": [
     {
-      "isAdsEnabled": false,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Chain_link_icon_slanted.png?_=20170905101301",
-      "link1": "https://www.youtube.com/"
+      "isAdsEnabled": true,
+      "imageUrl": "https://raw.githubusercontent.com/labobouita/tanglkkherra/refs/heads/main/imageex.jpeg",
+      "link1": ""
     },
     {
       "isAdsEnabled": false,
